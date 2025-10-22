@@ -38,7 +38,8 @@
 - 🎓 我是来自 **应用物理** 专业的大三学生。
 - 🔭 我目前的研究方向是 **机器人运动控制**，致力于让机器人的动作更精准、更优雅。
 - 🌱 我正在深入学习 **自动控制原理, 机器人学, 现代控制理论** 以及 **最优控制与强化学习**。
-- 👯 我非常乐意与对 **机器人** 感兴趣的伙伴交流合作。
+-  🐧我也是一名 **Linux** 爱好者，日常使用 **Arch Linux**，享受高度定制和掌控系统的乐趣。
+-  🤖我非常乐意与对 **机器人** 感兴趣的伙伴交流合作。
 - 📫 如何联系我: **hyl00250083@outlook.com**
 
 ---
@@ -68,8 +69,8 @@
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
   </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+  <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
@@ -77,6 +78,14 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
+</p>
+
+---
+
+<!-- Arch Linux 梗图 -->
+## 🐧 I Use Arch, btw
+<p align="center">
+  <img src="./archlinux.png " alt="I use arch btw" width="400"/>
 </p>
 
 ---

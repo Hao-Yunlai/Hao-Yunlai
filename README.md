@@ -17,7 +17,7 @@
   <img src="image.png" width="200" alt="funny image"/>
 </p>
 
-<h3 align="center">一位热衷于用物理学原理探索机器人世界的学生 🚀</h3>
+<h3 align="center">我要当太空人 🚀</h3>
 <!-- 在这里添加一张横幅图片 -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Banner"/>
@@ -36,49 +36,35 @@
 ## 👨‍💻 关于我 (About Me)
 
 - 🎓 我是来自 **应用物理** 专业的大三学生。
-- 🔭 我目前的研究方向是 **机器人学习**，致力于让机器人的动作更精准、更优雅。
-- 🌱 我正在深入学习 **最优控制与强化学习, 机器人学, 数学** 以及 **嵌入式**。
--  🐧我也是一名 **Linux** 爱好者，日常使用 **Arch Linux**，享受高度定制和掌控系统的乐趣。
--  🤖我非常乐意与对 **机器人** 或 **Arch Linux** 感兴趣的伙伴交流合作。
-- 📫 如何联系我: **hyl00250083@outlook.com**
+- 🔭 研究方向: **机器人学习** (让机器人动作更精准、更优雅)。
+- 🌱 正在学习: **最优控制、强化学习、机器人学、嵌入式**。
+- 🐧 **Arch Linux** 爱好者，享受高度定制的乐趣。
+- 🤖 乐意与对 **机器人** 感兴趣的伙伴交流。
+- 📫 联系我: <a href="mailto:hyl00250083@outlook.com">hyl00250083@outlook.com</a>
 
 ---
 
 <!-- "近期目标" 部分 -->
 ## 🎯 近期目标 (Current Focus)
 
-- 🤖 深入研究 **16Dof轮足机器人** 的强化学习算法。
-- 🧠 研究 **Isaac Sim/Lab** 应用于机器人技能学习，探索更智能的控制策略。
-- 📝 撰写关于 **机器人运动控制** 的技术博客或学习笔记。
+- 🤖 **16Dof轮足机器人** 强化学习算法。
+- 🧠 **Isaac Sim/Lab** 机器人技能学习。
+- 📝 撰写 **机器人运动控制** 技术博客。
 
 ---
 
-<!-- 技术栈部分 -->
-## 🛠️ 我的技术栈 (My Tech Stack)
+<!-- 技术栈部分 (Grouped) -->
+## 🛠️ 技术栈 (Tech Stack)
 
-<p align="center">
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://docs.ros.org/en/foxy/index.html" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a>
-  <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
-</p>
+<div align="center">
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,python,matlab,c" /></a> |
+| **Robotics & AI** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ros,pytorch,linux,github" /></a> |
+| **Tools** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,vscode,docker,arch" /></a> |
+
+</div>
 
 ---
 
@@ -91,13 +77,13 @@
 ---
 
 <!-- GitHub 统计数据 -->
-## 📊 我的 GitHub 统计 (My GitHub Stats)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hao-Yunlai&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hao-Yunlai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hao-Yunlai&theme=tokyonight" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hao-Yunlai&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---

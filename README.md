@@ -36,10 +36,10 @@
 ## 👨‍💻 关于我 (About Me)
 
 - 🎓 我是来自 **应用物理** 专业的大三学生。
-- 🔭 我目前的研究方向是 **机器人运动控制**，致力于让机器人的动作更精准、更优雅。
-- 🌱 我正在深入学习 **自动控制原理, 机器人学, 现代控制理论** 以及 **最优控制与强化学习**。
+- 🔭 我目前的研究方向是 **机器人学习**，致力于让机器人的动作更精准、更优雅。
+- 🌱 我正在深入学习 **最优控制与强化学习, 机器人学, 数学** 以及 **嵌入式**。
 -  🐧我也是一名 **Linux** 爱好者，日常使用 **Arch Linux**，享受高度定制和掌控系统的乐趣。
--  🤖我非常乐意与对 **机器人** 感兴趣的伙伴交流合作。
+-  🤖我非常乐意与对 **机器人** 或 **Arch Linux** 感兴趣的伙伴交流合作。
 - 📫 如何联系我: **hyl00250083@outlook.com**
 
 ---
@@ -47,9 +47,9 @@
 <!-- "近期目标" 部分 -->
 ## 🎯 近期目标 (Current Focus)
 
-- 🤖 深入研究 **四足机器人** 的MPC控制 (Model Predict Control) 算法。
-- 🧠 将 **强化学习** 应用于机器人技能学习，探索更智能的控制策略。
-- 📝 撰写一篇关于 **机器人运动控制** 的技术博客或学习笔记。
+- 🤖 深入研究 **16Dof轮足机器人** 的强化学习算法。
+- 🧠 研究 **Isaac Sim/Lab** 应用于机器人技能学习，探索更智能的控制策略。
+- 📝 撰写关于 **机器人运动控制** 的技术博客或学习笔记。
 
 ---
 
@@ -93,10 +93,6 @@
 <!-- GitHub 统计数据 -->
 ## 📊 我的 GitHub 统计 (My GitHub Stats)
 
-<p align="center">
-
-  <img height="180em" src="https://github-readme-stats-l6zp.vercel.app/api/top-langs/?username=Hao-Yunlai&layout=compact&langs_count=8&theme=tokyonight&count_private=true&&exclude_repo=[]"/>
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hao-Yunlai&theme=tokyonight" alt="GitHub Streak" />
 </p>
